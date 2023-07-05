@@ -63,7 +63,7 @@ const Treadmill = () => {
           </div>
           <div className="tread-cart">
             <button onClick={loadData}>button</button>
-            <button>button</button>
+            <p className="">info</p>
           </div>
         </div>
       </div>
